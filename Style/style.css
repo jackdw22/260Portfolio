@@ -1,0 +1,63 @@
+body {
+  background-color: #F4F1DE;
+  color: #3D405B;
+  font-size: 20px;
+  padding: 0;
+  margin: 0;
+
+}
+
+
+
+.main {
+  width: 84%;
+  margin: auto;
+}
+
+h1, h2 {
+  color: #E07A5F;
+  font-style: italic;
+}
+
+.story{
+  padding-bottom: 10px;
+
+}
+
+.navBar ul{
+  list-style-type: none;
+  margin: none;
+  padding: 0;
+  width: 100%;
+  display: inline;
+}
+
+.navBar li {
+  display: inline;
+  width:100%;
+  margin-left: 4%;
+
+}
+
+.navBar li a {
+   text-decoration: none;
+   padding: 0 1.5em;
+   color: #3D405B;
+
+}
+
+.navBar {
+  background-color: #81B29A;
+  padding: 20px;
+  margin: 0px;
+  position: relative;
+  width: 100%;
+}
+
+header h1{
+  margin:10px 7%;
+}
+
+.navBar a:hover{
+  font-weight: bolder;
+}
